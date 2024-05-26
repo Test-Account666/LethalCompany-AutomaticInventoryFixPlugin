@@ -7,6 +7,7 @@
         <!-- Change to whatever version you're currently on. -->
         <Version>1.2.0</Version>
         <Description>Automatically solves the problem of interacting with objects</Description>
+        <Source>https://github.com/Test-Account666/LethalCompany-AutomaticInventoryFixPlugin/</Source>
     </PropertyGroup>
 
     <!-- Project Properties -->
